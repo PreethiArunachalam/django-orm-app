@@ -47,6 +47,8 @@ admin.site.register(Patient_detail,Patient_detailAdmin)
 
 ## OUTPUT
 
+![Screenshot 2023-04-06 094910](https://user-images.githubusercontent.com/120115840/230271098-3ecef67c-0476-4f5e-b94c-84725b7fc267.png)
+
 ![Screenshot 2023-04-06 093853](https://user-images.githubusercontent.com/120115840/230270756-defd3384-ad25-4879-b0f9-44e58189a068.png)
 
 ## RESULT
